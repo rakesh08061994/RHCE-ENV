@@ -1,0 +1,16 @@
+my_user:
+     - name: myuser1
+       id: 6001
+       pass: pass@1
+     - name: myuser2
+       id: 6002
+       pass: pass@2
+     - name: myuser3
+       id: 6003
+       pass: pass@3
+     - name: myuser4
+       id: 6004
+       pass: pass@4
+     - name: myuser5
+       id: 6005
+       pass: pass@5
